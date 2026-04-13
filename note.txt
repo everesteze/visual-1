@@ -1,0 +1,4 @@
+initialization:git initialization
+staging:(a) git add index.css (1 file)
+         (b) git add . (multiple file)
+         commit:git commit -m "first commit"
