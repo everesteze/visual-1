@@ -6,10 +6,15 @@
 body{
     background-color: blue;
     color: white;
-
 }
+
 header{
     background-color: gold;
     color: black;
-    padding: 2rem;
+    padding: 2rem;   
 }
+
+. hero{
+    background-color: brown;
+}
+
